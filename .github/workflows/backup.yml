@@ -24,4 +24,4 @@ jobs:
           aws-region: eu-west-1
 
       - name: Sync up to CodeCommit
-        uses: descom-es/php-test@v1
+        uses: descom-es/php8-test@v1
