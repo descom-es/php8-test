@@ -1,0 +1,9 @@
+name: Github to PHP test
+description: 'Make php test.'
+author: 'descom'
+branding:
+  icon: terminal
+  color: yellow
+runs:
+  using: 'docker'
+  image: './Dockerfile'
