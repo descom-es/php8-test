@@ -1,4 +1,4 @@
-FROM php:8.0-alpine3
+FROM php:8.1-alpine
 
 RUN apk add bash
 RUN apk add curl
