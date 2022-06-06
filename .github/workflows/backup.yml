@@ -17,4 +17,4 @@ jobs:
           fetch-depth: 0
 
       - name: PHP test
-        uses: descom-es/php8-test@v1
+        uses: descom-es/php8-test@v1.1
